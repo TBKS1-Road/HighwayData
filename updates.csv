@@ -10845,6 +10845,33 @@ date;region;route;root;description
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
 2015-10-26;(USA) Pennsylvania;US 209 Truck (Brodheadsville);pa.us209trkbro;Added route
+2026-09-06;(USA) Puerto Rico;PR 7715;pr.pr7715;Route added.
+2026-09-06;(USA) Puerto Rico;PR 7711;pr.pr7711;Route added.
+2026-09-06;(USA) Puerto Rico;PR 7184;pr.pr7184;Route added.
+2026-09-06;(USA) Puerto Rico;PR 7167;pr.pr7167;Route added.
+2026-09-06;(USA) Puerto Rico;PR 6106;pr.pr6106;Route added.
+2026-09-06;(USA) Puerto Rico;PR 5555;pr.pr5555;Route added.
+2026-09-06;(USA) Puerto Rico;PR 5502;pr.pr5502;Route added.
+2026-09-06;(USA) Puerto Rico;PR 4128;pr.pr4128;Route added.
+2026-09-06;(USA) Puerto Rico;PR 3314;pr.pr3314;Route added.
+2026-09-06;(USA) Puerto Rico;PR 680;pr.pr0680;Route added.
+2026-09-06;(USA) Puerto Rico;PR 5155;pr.pr5155;Route truncated to PR 5555 in Orocovis.
+2026-09-06;(USA) Puerto Rico;PR 6123;pr.pr6103;Route renumbered as PR 6103.
+2026-09-06;(USA) Puerto Rico;PR 6032;pr.pr6132;Route renumbered as PR 6132.
+2026-09-06;(USA) Puerto Rico;PR 774 (Barranquitas);pr.pr7174;Route renumbered as PR 7174.
+2026-09-06;(USA) Puerto Rico;PR 503 (Ponce);pr.pr5503;Route renumbered as PR 5503.
+2026-09-06;(USA) Puerto Rico;PR 501 (Ponce (N));pr.pr5501;Route renumbered as PR 5501.
+2026-09-06;(USA) Puerto Rico;PR 431;pr.pr4131;Route renumbered as PR 4131.
+2026-09-06;(USA) Puerto Rico;PR 9926;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 8809;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 7793;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 7709;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 4454;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 3380;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 817;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 661;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 624;;Route deleted.
+2026-09-06;(USA) Puerto Rico;PR 554;;Route deleted.
 2016-06-22;(USA) Puerto Rico;PR 305;pr.pr0305;Removed from PR 116 and relocated onto Corredor Agroturistico Jorge Alberto "George" Asencio between PR116_N and PR116/304
 2026-06-01;(USA) Rhode Island;RI 138;ri.ri138;Removed from dismantled Pell Bridge Approach freeway stub, Admiral Kalfbus Rd, and W Main Rd, and rerouted along reconstructed Halsey St, JT Connell Hwy, and Coddington Hwy between points ToRI138A and RI114_S.
 2026-06-01;(USA) Rhode Island;RI 138A;ri.ri138a;West end extended along JT Connell Hwy from former Pell Bridge Approach at ToRI138 to the roundabout at Admiral Kalfbus Rd. RI138_W point moved from old to new western terminus.
