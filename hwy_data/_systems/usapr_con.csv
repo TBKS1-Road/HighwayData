@@ -369,7 +369,6 @@ usapr;PR498;;;pr.pr0498
 usapr;PR499;;;pr.pr0499
 usapr;PR500;;;pr.pr0500
 usapr;PR501;;;pr.pr0501
-usapr;PR501;;;pr.pr0501pon
 usapr;PR502;;;pr.pr0502
 usapr;PR503;;Adjuntas;pr.pr0503
 usapr;PR503;;Ponce;pr.pr0503pon
@@ -878,7 +877,7 @@ usapr;PR4116;;;pr.pr4116
 usapr;PR4119;;;pr.pr4119
 usapr;PR4125;;;pr.pr4125
 usapr;PR4128;;;pr.pr4128
-usapr;PR4131;;;pr.pr4131,pr.pr0431
+usapr;PR4131;;;pr.pr4131
 usapr;PR4401;;;pr.pr4401
 usapr;PR4402;;;pr.pr4402
 usapr;PR4403;;;pr.pr4403
@@ -935,9 +934,9 @@ usapr;PR5149;;;pr.pr5149
 usapr;PR5150;;;pr.pr5150
 usapr;PR5155;;;pr.pr5155
 usapr;PR5156;;;pr.pr5156
-usapr;PR5501;;;pr.pr5501,pr.pr501pon
+usapr;PR5501;;;pr.pr5501
 usapr;PR5502;;;pr.pr5502
-usapr;PR5503;;;pr.pr5503,pr.pr503pon
+usapr;PR5503;;;pr.pr5503
 usapr;PR5506;;;pr.pr5506
 usapr;PR5507;;Santa Isabel (W);pr.pr5507san
 usapr;PR5507;;Santa Isabel (E);pr.pr5507
@@ -968,12 +967,12 @@ usapr;PR5561;;;pr.pr5561
 usapr;PR5562;;;pr.pr5562
 usapr;PR5567;;;pr.pr5567
 usapr;PR5568;;;pr.pr5568
-usapr;PR6103;;;pr.pr6103,pr.pr6123
+usapr;PR6103;;;pr.pr6103
 usapr;PR6106;;;pr.pr6106
 usapr;PR6109;;;pr.pr6109
 usapr;PR6111;;;pr.pr6111
 usapr;PR6121;;;pr.pr6121
-usapr;PR6132;;;pr.pr6132,pr.pr6032
+usapr;PR6132;;;pr.pr6132
 usapr;PR6165;;;pr.pr6165
 usapr;PR6602;;;pr.pr6602
 usapr;PR6603;;;pr.pr6603
@@ -1017,7 +1016,7 @@ usapr;PR7090;;;pr.pr7090
 usapr;PR7156;;;pr.pr7156
 usapr;PR7167;;;pr.pr7167
 usapr;PR7173;;;pr.pr7173
-usapr;PR7174;;;pr.pr7174,pr.pr0774bar
+usapr;PR7174;;;pr.pr7174
 usapr;PR7184;;;pr.pr7184
 usapr;PR7701;;;pr.pr7701
 usapr;PR7707;;;pr.pr7707
